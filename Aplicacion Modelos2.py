@@ -71,7 +71,7 @@ warnings.filterwarnings("ignore")
 # Configuración
 # -----------------------------
 
-DATA_PATH = "datos conagua precipitación EdoMex.csv"  # <-- archivo ya cargado
+DATA_PATH = "dataset/datos conagua precipitación EdoMex.csv"  # <-- archivo ya cargado
 OUTPUT_DIR = "./salidas"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
