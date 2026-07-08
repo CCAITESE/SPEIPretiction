@@ -16,7 +16,7 @@ Pipeline reproducible para:
 6) Cuantificar incertidumbre con bootstrap (intervalos 5–95%)
 7) Generar tablas y figuras en carpeta ./outputs
 
-Autor: (Jacob Avila / ChatGPT)
+Autor: (Jacob Avila)
 Requisitos sugeridos:
 - pandas, numpy, matplotlib, scikit-learn, scipy
 - opcionales: xgboost, catboost
