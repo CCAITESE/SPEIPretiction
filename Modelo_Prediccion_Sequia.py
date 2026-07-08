@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-datos = pd.read_csv("datos conagua precipitación EdoMex.csv")
+datos = pd.read_csv("dataset/datos conagua precipitación EdoMex.csv")
 
 ## Verificamos valores nulos
 datos.info()
